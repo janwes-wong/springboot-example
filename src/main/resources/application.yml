@@ -1,0 +1,5 @@
+server:
+  port: 1688
+spring:
+  application:
+    name: example-service
